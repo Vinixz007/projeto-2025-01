@@ -1,15 +1,15 @@
 body {
-    color: lime;
-    background: black;
+    color: rgb(76, 0, 255);
+    background: rgb(15, 15, 15);
     margin: 0px;
     font-family: "Rubik Wet Paint", system-ui;
 }
 
 header {
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(117, 9, 9);
     padding: 20px;
     font-size: 32px;
-    color: lime;
+    color: rgb(0, 32, 136);
 }
 
 .background {
@@ -26,7 +26,7 @@ header {
 }
 
 .video {
-    border: solid 2px lime;
+    border: solid 2px rgb(0, 32, 136);
 }
 
 .chamada-texto {
@@ -42,13 +42,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: lime;
+    color:rgb(117, 9, 9)
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: lime;
+    color: rgb(0, 32, 136);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
