@@ -48,7 +48,7 @@ header {
 
 .cursor {
     display: inline-block;
-    color: rgb(0, 32, 136);
+    color: rgb(117, 9, 9);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
