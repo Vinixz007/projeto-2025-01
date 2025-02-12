@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: lime black;
+    scrollbar-color: rgb(117, 9, 9)e tv5 black;
     scrollbar-width: thin;
     gap: 10px;
 }
