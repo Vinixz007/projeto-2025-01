@@ -104,7 +104,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid lime;
+    border: 3px solid rgb(117, 9, 9);
 }
 
 .categoria h2 {
