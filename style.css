@@ -6,10 +6,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(255, 0, 0);
+    border-bottom: solid 2px rgb(0, 51, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 30, 255);
 }
 
 .background {
@@ -22,11 +22,11 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px rgb(255, 0, 0);
+    border-bottom: solid 2px rgb(0, 13, 255);
 }
 
 .video {
-    border: solid 2px rgb(255, 0, 0);
+    border: solid 2px rgb(0, 21, 255);
 }
 
 .chamada-texto {
@@ -42,13 +42,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 55, 255);
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 42, 255);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(255, 0, 0) black;
+    scrollbar-color: rgb(0, 8, 255) black;
     scrollbar-width: thin;
     gap: 10px;
 }
@@ -104,11 +104,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(255, 0, 0);
+    border: 3px solid rgb(0, 72, 255);
 }
 
 .categoria h2 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 21, 255);
 }
 
 .copyright {
